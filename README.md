@@ -1,4 +1,4 @@
-## Tugas Individu 3- Perulangan
+## Repository Tugas Individu TI
 
 Nama : Eko Ramadani
 
